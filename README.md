@@ -1,4 +1,4 @@
-# 🧠 EEG Dataset for ADHD — Análise Espectral
+# EEG Dataset for ADHD — Análise Espectral
 
 Projeto de análise de sinais EEG a partir do dataset [EEG Dataset for ADHD](https://www.kaggle.com/datasets/danizo/eeg-dataset-for-adhd) (Kaggle), com pipeline ETL, pré-processamento (CAR), análise espectral (FFT) e extração de potência por bandas de frequência e regiões cerebrais.
 
